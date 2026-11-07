@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/discover", "title": "Discover Scholarships" },
+    { "path": "/tracker", "title": "Application Tracker" },
+    { "path": "/calendar", "title": "Deadline Calendar" },
+    { "path": "/documents", "title": "Document Checklist" },
+    { "path": "/profile", "title": "Student Profile" }
+  ]
+}
